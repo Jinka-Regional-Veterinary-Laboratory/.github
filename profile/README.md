@@ -20,6 +20,15 @@ The **Jinka Regional Veterinary Laboratory Centre** is the primary hub for veter
 -   **📚 Applied Research:** Investigating local veterinary challenges to develop practical, science-based solutions.
 -   **👨‍🌾 Community Support:** Empowering farmers and pastoralists with the knowledge and tools needed for sustainable animal husbandry.
 
+### 🎓 Capacity Building & Training
+We are committed to strengthening the regional veterinary ecosystem. We provide hands-on training for professionals at District Veterinary Clinics and other partners in key areas:
+
+-   🧪 **Basic Laboratory Techniques:** Foundational skills for district-level laboratory staff.
+-   📊 **Basic Animal Health Surveillance:** Methods for effective monitoring and data collection.
+-   🔍 **Disease Outbreak Investigation & Response:** Practical steps for managing and containing outbreaks.
+-   🗺️ **Geographic Information System (GIS):** Applying spatial analysis to animal health, from basic to advanced levels.
+-   📋 **Ethiopian National Livestock Data Standard:** Ensuring data consistency and interoperability across the network.
+
 ---
 
 ## 🤝 Get Involved & Collaborate
@@ -41,6 +50,7 @@ We are currently developing several open-source tools and resources for the comm
 
 -   **📈 Disease Surveillance Dashboard:** An interactive map to visualize real-time animal disease trends in the region.
 -   **💻 Diagnostic Data Toolkit:** A collection of scripts and tools for analyzing veterinary laboratory data.
+-   **🗺️ QGIS Plugins for Veterinary Epidemiology:** Custom tools to help researchers perform advanced spatial analysis on animal health data directly within QGIS.
 -   **📄 Regional Animal Health Reports:** Publicly accessible, anonymized reports and datasets from our surveillance efforts.
 
 ---
@@ -59,10 +69,10 @@ We are committed to modern, transparent, and secure practices in all our work.
 
 ## 📫 Get in Touch
 
--   🌐 **Website:**  
--   📧 **Email:** 
+-   📞 **Phone:** [+251-46-775-1795](tel:+251-46-775-1795) <!--- Replace with your actual phone number -->
+-   📠 **Fax:** [+251-46-775-2067](fax:+251-46-775-2067) <!--- Replace with your actual fax number -->
+-   📮 **P.O. Box:** 62, Jinka, Ethiopia <!--- Replace with your actual P.O. Box number -->
 -   📍 **Location:** Jinka, South Ethiopia Regional State, Ethiopia
-
 
 <br>
 <p align="center">
