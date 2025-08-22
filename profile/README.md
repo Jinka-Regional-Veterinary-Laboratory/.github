@@ -17,15 +17,16 @@ We operate at the intersection of laboratory science, epidemiology, and communit
 
 #### 1. Veterinary Diagnostics & Research
 We are the region's primary center for scientific analysis, providing critical services to identify and understand animal diseases.
--   **Accurate Diagnostics:** Timely laboratory testing for a wide range of livestock, wildlife, and zoonotic diseases.
--   **Applied Research:** Investigating local veterinary challenges to develop practical, evidence-based solutions.
+-    **Diagnostic Testing:** Providing accurate and timely laboratory services for a wide range of livestock, wildlife, and zoonotic diseases.
 -   **Farm Health Management:** Providing scientific support and health monitoring for dairy, poultry, beef, and other livestock farms.
 -   **Clinical Supply Production:** Producing and distributing essential vaccine reconstitutes (saline water) and distilled water to support regional health campaigns.
+-   **Applied Research:** Investigating local veterinary challenges to develop practical, evidence-based solutions.
 
-#### 2. Public Health & Disease Control
+#### 2. Disease Surveillance & Public Health
 We actively protect the health of animals and humans by tracking, investigating, and controlling disease threats.
--   **Active Surveillance:** Monitoring for transboundary, zoonotic, and economically significant diseases.
--   **Rapid Outbreak Response:** Deploying teams to investigate disease outbreaks and recommend immediate control measures.
+-   **Active Surveillance:** Conducting surveillance for transboundary, zoonotic, and economically significant diseases.
+-   **Rapid Outbreak Response:** Leading investigations of disease outbreaks and providing evidence-based control recommendations.
+-   **Vaccination Strategy:** Developing and updating regional vaccination calendars to manage and prevent key livestock diseases.
 -   **Strategic Eradication Programs:** Coordinating regional campaigns against major diseases like **Peste des Petits Ruminants (PPR)** and **Rabies**.
 
 #### 3. Data-Driven Epidemiology
