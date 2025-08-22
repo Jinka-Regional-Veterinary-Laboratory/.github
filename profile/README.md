@@ -1,28 +1,41 @@
 <p align="center">
-  <!-- Optional: Add your logo here. Uncomment and replace the src. -->
+  <!-- Place your logo here by uncommenting and updating the src -->
   <!-- <img src="URL_TO_YOUR_LOGO.png" alt="JRVLC Logo" width="150"/> -->
   <h1>Jinka Regional Veterinary Laboratory Centre (JRVLC)</h1>
+  <p>
+    <b>The scientific frontline for animal health, disease prevention, and veterinary research in the South Ethiopia Regional State of Ethiopia.</b>
+  </p>
 </p>
 
-<p align="center">
-  Advancing 🐄 <b>animal health</b>, 🔬 <b>disease prevention</b>, and 🧪 <b>veterinary research</b> in the South Ethiopia Regional State.
-</p>
+> Our mission is to safeguard animal and public health, support the livelihoods of pastoralist and farming communities, and build a resilient veterinary ecosystem through science, collaboration, and innovation.
 
 ---
 
-## 🌍 About Us
+### What We Do: Our Core Pillars
 
-The **Jinka Regional Veterinary Laboratory Centre** is the primary hub for veterinary diagnostics, research, and surveillance in our region. Our mission is to safeguard animal health and support the livelihoods of local communities through scientific excellence.
+We operate at the intersection of laboratory science, epidemiology, and community engagement. Our work is organized into four key pillars:
 
-### Our Core Focus
--   **🧬 Diagnostic Services:** Providing accurate and timely testing for a wide range of livestock and zoonotic diseases.
--   **📊 Surveillance & Epidemiology:** Monitoring and reporting on animal health trends to prevent and control outbreaks.
--   **📚 Applied Research:** Investigating local veterinary challenges to develop practical, science-based solutions.
--   **👨‍🌾 Community Support:** Empowering farmers and pastoralists with the knowledge and tools needed for sustainable animal husbandry.
+#### 1. Veterinary Diagnostics & Research
+We are the region's primary center for scientific analysis, providing critical services to identify and understand animal diseases.
+-   **Accurate Diagnostics:** Timely laboratory testing for a wide range of livestock, wildlife, and zoonotic diseases.
+-   **Applied Research:** Investigating local veterinary challenges to develop practical, evidence-based solutions.
+-   **Farm Health Management:** Providing scientific support and health monitoring for dairy, poultry, beef, and other livestock farms.
+-   **Clinical Supply Production:** Producing and distributing essential vaccine reconstitutes (saline water) and distilled water to support regional health campaigns.
 
-### 🎓 Capacity Building & Training
-We are committed to strengthening the regional veterinary ecosystem. We provide hands-on training for professionals at District Veterinary Clinics and other partners in key areas:
+#### 2. Public Health & Disease Control
+We actively protect the health of animals and humans by tracking, investigating, and controlling disease threats.
+-   **Active Surveillance:** Monitoring for transboundary, zoonotic, and economically significant diseases.
+-   **Rapid Outbreak Response:** Deploying teams to investigate disease outbreaks and recommend immediate control measures.
+-   **Strategic Eradication Programs:** Coordinating regional campaigns against major diseases like **Peste des Petits Ruminants (PPR)** and **Rabies**.
 
+#### 3. Data-Driven Epidemiology
+We transform raw data into actionable intelligence to guide public policy and field interventions.
+-   **National Data Management:** Managing the regional pipeline for the **Monthly Disease Occurrence and Vaccination Activities Report (DOVAR-II)**.
+-   **Trend Analysis:** Monitoring and analyzing data from the **National Animal Disease Notification and Investigation System (ADNIS)**.
+-   **Geospatial Analysis:** Utilizing GIS to map disease hotspots, predict spread, and optimize resource allocation.
+
+#### 4. Capacity Building & Training
+We strengthen the entire veterinary network by equipping front-line professionals with the skills they need to succeed. Our key training programs include:
 -   🧪 **Basic Laboratory Techniques:** Foundational skills for district-level laboratory staff.
 -   📊 **Basic Animal Health Surveillance:** Methods for effective monitoring and data collection.
 -   🔍 **Disease Outbreak Investigation & Response:** Practical steps for managing and containing outbreaks.
@@ -31,49 +44,33 @@ We are committed to strengthening the regional veterinary ecosystem. We provide 
 
 ---
 
-## 🤝 Get Involved & Collaborate
+### Join Our Mission
 
-We believe collaboration is key to achieving our mission. We are actively seeking partnerships with:
+Collaboration is the cornerstone of public health. We are actively seeking partnerships with researchers, academic institutions, NGOs, and development partners who share our vision.
 
--   👩‍🔬 **Veterinary Researchers & Scientists**
--   🎓 **Academic Institutions**
--   🌍 **Local & International NGOs**
--   🤝 **Agricultural Development Partners**
-
-Interested in contributing? Check our public repositories for open **[Issues](https://github.com/Jinka-Regional-Veterinary-Laboratory?tab=repositories)** or our **[Projects](https://github.com/orgs/Jinka-Regional-Veterinary-Laboratory/projects)** board to see where you can help.
+-   **Explore our work:** Check our repositories as they become available.
+-   **Contribute to a project:** View our **[Projects Board](https://github.com/orgs/Jinka-Regional-Veterinary-Laboratory/projects)** to see our strategic priorities.
+-   **Report an issue or suggest an idea:** Open an **[Issue](https://github.com/Jinka-Regional-Veterinary-Laboratory/.github/issues)** to start a conversation.
 
 ---
 
-## 🚀 Featured Projects (Coming Soon)
+### Our Open-Source Roadmap
 
-We are currently developing several open-source tools and resources for the community. Stay tuned for:
-
--   **📈 Disease Surveillance Dashboard:** An interactive map to visualize real-time animal disease trends in the region.
--   **💻 Diagnostic Data Toolkit:** A collection of scripts and tools for analyzing veterinary laboratory data.
--   **🗺️ QGIS Plugins for Veterinary Epidemiology:** Custom tools to help researchers perform advanced spatial analysis on animal health data directly within QGIS.
+We are committed to building open-source tools that benefit the entire veterinary community. Our upcoming projects include:
+-   **📈 Disease Surveillance Dashboard:** An interactive platform for visualizing regional animal disease data.
+-   **💻 Diagnostic Data Toolkit:** A suite of scripts for analyzing and reporting on laboratory data.
+-   **🗺️ QGIS Plugins for Veterinary Epidemiology:** Custom tools for advanced spatial analysis in animal health.
 -   **📄 Regional Animal Health Reports:** Publicly accessible, anonymized reports and datasets from our surveillance efforts.
-
 ---
 
-## 🛠️ Our Approach & Principles
+### Connect With Us
 
-We are committed to modern, transparent, and secure practices in all our work.
-
-| Principle              | Description                                                                                             |
-| ---------------------- | ------------------------------------------------------------------------------------------------------- |
-| **Open & Verifiable**  | We use GitHub for version control of our source code, datasets, and documentation to ensure transparency. |
-| **Data-Driven**        | Our research and reports are based on rigorously collected and analyzed scientific data.                 |
-| **Security & Privacy** | Sensitive veterinary and personal data is anonymized for public release and stored in private, access-controlled repositories. |
-
----
-
-## 📫 Get in Touch
-
--   📞 **Phone:** [+251-46-775-1795](tel:+251-46-775-1795) <!--- Replace with your actual phone number -->
--   📠 **Fax:** [+251-46-775-2067](fax:+251-46-775-2067) <!--- Replace with your actual fax number -->
--   📮 **P.O. Box:** 62, Jinka, Ethiopia <!--- Replace with your actual P.O. Box number -->
--   📍 **Location:** Jinka, South Ethiopia Regional State, Ethiopia
-
+-   **Phone:** [+251-46-775-1795](tel:+251467751795)
+-   **Fax:** [+251-46-775-2067](fax:+251-46-775-2067)
+-   **P.O. Box:** 62, Jinka, Ethiopia
+-   **Location:** Jinka, South Ethiopia Regional State, Ethiopia
+   <!-- 🌐 Website: [your-website.com](https://your-website.com) -->
+   <!-- 📧 Email: [contact@jrvlc.org](mailto:contact@jrvlc.org) -->
 <br>
 <p align="center">
   <i>"Healthy animals, healthy communities."</i>
